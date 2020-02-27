@@ -2,6 +2,3 @@ hehe
 我修改一下内容
 你要说什么内容，我是本地github.
 测试分支新增内容
-your are so nice!
-right,i am so nice!
-hehe
